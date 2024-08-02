@@ -1,4 +1,4 @@
-
+//masalalar
 // 1-masla
 // let arr = [1,2,3,4,5];
 // function test(arr) {
